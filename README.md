@@ -1,18 +1,18 @@
 # Guitar3.0
-#mysql
+mysql
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/1.JPG)
-#吉他列表
+吉他列表
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/2.JPG)
-#添加吉他界面
+添加吉他界面
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/3.JPG)
-#添加结果
+添加结果
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/4.JPG)
-#删除吉他编号为2的吉他
-#删除结果
+删除吉他编号为2的吉他
+删除结果
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/5.JPG)
-#搜索界面
+搜索界面
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/6.JPG)
-#搜索结果
+搜索结果
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/7.JPG)
 
 #改为sqlite
