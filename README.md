@@ -23,7 +23,7 @@
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/10.JPG)
 #添加结果
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/11.JPG)
-#删除吉他编号为2的吉他
+#删除吉他编号为81的吉他
 #删除结果
 ![images](https://raw.githubusercontent.com/shishshi/Guitar3.0/master/images/12.JPG)
 #搜索界面
